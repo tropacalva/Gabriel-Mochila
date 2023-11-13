@@ -1,6 +1,6 @@
 const form = document.getElementById("novoIten")
 
-const form.addEventListener("submit", () => {
+const form.aDDEventListener("submit", () => {
     console.log("funcionou")
     const form.addEventListener("submit", (evento) => {
         evento.preventDefault()
