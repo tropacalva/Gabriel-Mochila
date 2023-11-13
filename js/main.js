@@ -1,2 +1,4 @@
-console.logdocument.getElementById("novoiten")
-console.logdocument.getElementById("novoiten")
+const form = document.getElementById("novoiten")
+const form.addEventListener("submit", () => {
+    console.log("funcionou")
+}
