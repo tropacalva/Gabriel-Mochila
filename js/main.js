@@ -1,0 +1,1 @@
+console.logdocument.getElementById("novoiten")
