@@ -1,2 +1,2 @@
-const form = document.getElementById("novoiten")
+document.getElementById("novoiten")
 
